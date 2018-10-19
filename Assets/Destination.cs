@@ -17,5 +17,6 @@ public class Destination : MonoBehaviour {
     private void OnTriggerEnter2D(Collider2D collision)
     {
         Debug.Log("you reached the end ,go to next level");
+
     }
 }
